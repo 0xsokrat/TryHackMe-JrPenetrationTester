@@ -1,0 +1,91 @@
+
+
+```text
+Type: Learning Path
+Difficulty: Intermediate
+Description:
+This learning path covers the core technical skills that will allow you to succeed as a junior 
+penetration tester. Upon completing this path, you will have the practical skills necessary to 
+perform security assessments against web applications and enterprise infrastructure.
+
+Prerequisites:
+You need a basic understanding of fundamental computing principles and a broad understanding 
+of the different areas of cyber security to complete this pathway. If you do not already have 
+these prerequisites, complete the Pre-Security Pathway and Cyber Security 101 Pathway.
+```
+
+Web link: [https://tryhackme.com/path/outline/jrpenetrationtester](https://tryhackme.com/path/outline/jrpenetrationtester)
+
+## Included rooms
+
+### Start Your Cyber Security Journey
+
+- [Offensive Security Intro](../../Walkthroughs/Easy/Offensive_Security_Intro.md)
+- [Defensive Security Intro](../../Walkthroughs/Easy/Defensive_Security_Intro.md)
+- [Search Skills](../../Walkthroughs/Easy/Search_Skills.md)
+
+### Penetration Testing Foundations
+
+- [Guided Pentest: Web](../../Walkthroughs/Easy/Guided_Pentest_Web.md)
+- [Guided Pentest: Infrastructure](../../Walkthroughs/Easy/Guided_Pentest_Infrastructure.md)
+- [Dive Into Pentesting](../../Walkthroughs/Easy/Dive_Into_Pentesting.md)
+- [Cyber Kill Chain](../../Walkthroughs/Medium/Cyber_Kill_Chain.md)
+- [Penetration Testing Frameworks](../../Walkthroughs/Easy/Penetration_Testing_Frameworks.md)
+
+### Network Reconnaissance
+
+- [Passive Reconnaissance](../../Walkthroughs/Easy/Passive_Reconnaissance.md)
+- [Active Reconnaissance](../../Walkthroughs/Easy/Active_Reconnaissance.md)
+- [Protocols and Servers](../../Walkthroughs/Easy/Protocols_and_Servers.md)
+- [Protocols and Servers 2](../../Walkthroughs/Medium/Protocols_and_Servers_2.md)
+
+### Nmap
+
+- [Nmap Live Host Discovery](../../Walkthroughs/Medium/Nmap_Live_Host_Discovery.md)
+- [Nmap Basic Port Scans](../../Walkthroughs/Easy/Nmap_Basic_Port_Scans.md)
+- [Nmap Advanced Port Scans](../../Walkthroughs/Medium/Nmap_Advanced_Port_Scans.md)
+- [Nmap Post Port Scans](../../Walkthroughs/Medium/Nmap_Post_Port_Scans.md)
+
+### Web Application Security Fundamentals
+
+- [Walking An Application](../../Walkthroughs/Easy/Walking_An_Application.md)
+- [Content Discovery](../../Walkthroughs/Easy/Content_Discovery.md)
+- [Modern Web Stacks](../../Walkthroughs/Easy/Modern_Web_Stacks.md)
+
+### Burp Suite
+
+- [Burp Suite: The Basics](../../Walkthroughs/Info/Burp_Suite_The_Basics.md)
+- [Burp Suite: Repeater](../../Walkthroughs/Info/Burp_Suite_Repeater.md)
+- [Burp Suite: Intruder](../../Walkthroughs/Medium/Burp_Suite_Intruder.md)
+- [Burp Suite: Other Modules](../../Walkthroughs/Easy/Burp_Suite_Other_Modules.md)
+- [Burp Suite: Extensions](../../Walkthroughs/Easy/Burp_Suite_Extensions.md)
+
+### Network Security
+
+- [Passive Reconnaissance](../../Walkthroughs/Easy/Passive_Reconnaissance.md)
+- [Active Reconnaissance](../../Walkthroughs/Easy/Active_Reconnaissance.md)
+- [Nmap Live Host Discovery](../../Walkthroughs/Medium/Nmap_Live_Host_Discovery.md)
+- [Nmap Basic Port Scans](../../Walkthroughs/Easy/Nmap_Basic_Port_Scans.md)
+- [Nmap Advanced Port Scans](../../Walkthroughs/Medium/Nmap_Advanced_Port_Scans.md)
+- [Nmap Post Port Scans](../../Walkthroughs/Medium/Nmap_Post_Port_Scans.md)
+- [Protocols and Servers](../../Walkthroughs/Easy/Protocols_and_Servers.md)
+- [Protocols and Servers 2](../../Walkthroughs/Medium/Protocols_and_Servers_2.md)
+- [Net Sec Challenge](../../Challenges/Medium/Net_Sec_Challenge.md)
+
+### Vulnerability Research
+
+- [Vulnerabilities 101](../../Walkthroughs/Easy/Vulnerabilities_101.md)
+- [Exploit Vulnerabilities](../../Walkthroughs/Easy/Exploit_Vulnerabilities.md)
+- [Vulnerability Capstone](../../Challenges/Easy/Vulnerability_Capstone.md)
+
+### Metasploit
+
+- [Metasploit: Introduction](../../Walkthroughs/Easy/Metasploit_Introduction.md)
+- [Metasploit: Exploitation](../../Walkthroughs/Easy/Metasploit_Exploitation.md)
+- [Metasploit: Meterpreter](../../Walkthroughs/Easy/Metasploit_Meterpreter.md)
+
+### Privilege Escalation
+
+- [What the Shell?](../../Walkthroughs/Easy/What_the_Shell.md)
+- [Linux Privilege Escalation](../../Walkthroughs/Medium/Linux_Privilege_Escalation.md)
+- [Windows Privilege Escalation](../../Walkthroughs/Medium/Windows_Privilege_Escalation.md)
