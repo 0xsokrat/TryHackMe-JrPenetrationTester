@@ -23,6 +23,11 @@ This repository is maintained as a clean, lightweight **Obsidian Vault** designe
 
 ```text
 .
-├── Junior Penetration Tester/   # Core path modules & methodology notes
-├── Walkthroughs/               # Detailed lab writeups & room solutions
-└── .obsidian/                  # Vault graph view & workspace configuration
+## 📂 Vault Structure
+
+```text
+.
+├── Learning_Paths/   # Path outlines & learning roadmaps
+├── Modules/          # Security concepts, tools & theory
+├── Walkthroughs/     # Detailed lab writeups & room solutions
+└── README.md         # Repository documentation
