@@ -1,5 +1,5 @@
-# Learning Paths
+# Medium Learning Paths
 
-## Medium Learning Paths
+## Offensive Security
 
-- [Jr Penetration Tester](Medium/Jr_Penetration_Tester.md)
+- [Jr Penetration Tester](Jr_Penetration_Tester.md)
